@@ -1,0 +1,5 @@
+res://level_1.tscn
+res://Resources/level1_environment.tres
+res://chest.tscn
+res://player.tscn
+res://coin.tscn
