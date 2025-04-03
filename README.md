@@ -11,7 +11,7 @@ TreasureHunt3D is a 3D game developed using the Godot Engine as part of an educa
 - **Main Menu Toggle** – Press `Esc` to open/close the main menu and pause/resume the game.
 
 ## Demo Video
-[![Video Title]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/HoDWFUflj9I))
+
 https://youtu.be/HoDWFUflj9I
 
 ## Getting Started
